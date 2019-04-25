@@ -1,0 +1,6 @@
+/wgnr8 https://wgnr8.com.br
+/api/* https://jsonplaceholder.typicode.com/:splat 200
+/ticker  https://api.bitvalor.com/v1/ticker.json 200
+/exchanges https://api.bitvalor.com/v1/exchanges.json 200
+/orderbookstats https://api.bitvalor.com/v1/order_book_stats.json 200
+/orderbooks https://api.bitvalor.com/v1/order_book.json 200
