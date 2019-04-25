@@ -3,4 +3,5 @@
 /ticker  https://api.bitvalor.com/v1/ticker.json 200
 /exchanges https://api.bitvalor.com/v1/exchanges.json 200
 /orderbookstats https://api.bitvalor.com/v1/order_book_stats.json 200
-/orderbooks https://api.bitvalor.com/v1/order_book.json 200
+/orderbooks https://api.bitvalor.com/v1/order_book.json 
+/getword /.netlify/functions/getword/getword.js 200
